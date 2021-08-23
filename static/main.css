@@ -1,0 +1,12 @@
+body{
+    background-image: url("../static/img/devushka_lico_kudri_naushniki_mikrofon_63594_1920x1080.jpg");
+}
+
+div, p, input, button, form, span, a, ul, li{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1500px;
+    margin: 0 auto;
+}
